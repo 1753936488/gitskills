@@ -1,2 +1,2 @@
 # gitskills
---no --ff
+--no --ff fix bug
