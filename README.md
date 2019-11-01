@@ -1,2 +1,3 @@
 # gitskills
-Createing a nwe line,
+Createing a new line,
+CTRATING ANOTHER LINE
