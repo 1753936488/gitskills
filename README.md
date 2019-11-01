@@ -1,2 +1,3 @@
 # gitskills
-Createing a nwe line,
+Createing a nwe line.
+crete master line
