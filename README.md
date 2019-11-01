@@ -1,2 +1,1 @@
 # gitskills
-crete master line
